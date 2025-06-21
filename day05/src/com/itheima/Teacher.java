@@ -32,6 +32,7 @@ public class Teacher {
     private int age;
 
     //2.构造方法
+    //作用是: 创建对象
     public Teacher() {
     }
 

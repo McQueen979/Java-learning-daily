@@ -26,7 +26,7 @@ public class Demo07 {
             //判断条件
             if (ge != 7 && shi != 7 && i % 7 != 0) {
                 //一行打印
-                System.out.println(i + " ");
+                System.out.print(i + " ");  //输出一个数后加空格,不换行
                 //先计数
                 count++;
                 //判断如果count是5的倍数, 执行换行
@@ -39,7 +39,7 @@ public class Demo07 {
                 //跳过
                 continue;
             }
-            System.out.println(i);
+            //System.out.println(i);    //多余的语句
         }
     }
 }

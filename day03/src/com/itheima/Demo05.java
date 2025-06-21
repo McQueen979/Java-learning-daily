@@ -54,7 +54,7 @@ public class Demo05 {
                 count2++;
             }
         }
-        System.out.println("水仙花数有:" + count2 + "个");
+        System.out.println("是四叶玫瑰数有:" + count2 + "个");
 
         //五角星数
         //六合数

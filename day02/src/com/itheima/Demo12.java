@@ -37,6 +37,7 @@ public class Demo12 {
                 System.out.println("你输入的月份有误!");
                 break;
         }
+
         //3. 使用case穿透优化switch
        /* switch (month) {
             case 12:

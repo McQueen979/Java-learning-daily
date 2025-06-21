@@ -3,6 +3,8 @@ package com.itheima;
     方法重载的好处？
         让调用者不用记忆太多的方法名
         调用方法时，JVM 会根据参数列表匹配对应的方法
+            三个方法都叫 sum , 不需要区分什么sum1 sum2 ...
+            比如输出打印 只需要 print()就好了,不用区分printint printdouble printchar...
  */
 
 public class P3 {

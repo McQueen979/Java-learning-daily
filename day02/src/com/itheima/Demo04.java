@@ -17,6 +17,7 @@ public class Demo04 {
         System.out.println("it" + "heima");     // "itheima"
         System.out.println("itheima" + 666);    // "itheima666"
         System.out.println(1 + 99 + "年黑马");   // "100年黑马"
+        System.out.println("年黑马" + 1 + 99);   // "年黑马199"
         System.out.println(1 + 99);             // "100"
         System.out.println("5+5=" + 5 + 5);     // "5+5=55"
         /*表达式是从左到右进行计算的。首先字符串 "5+5=" 与数字 5 相加，此时会触发字符串拼接操作，得到字符串 "5+5=5"。
