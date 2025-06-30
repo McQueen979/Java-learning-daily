@@ -1,6 +1,6 @@
 package com.test;
 
-public class test {
+public class test1 {
     public static void main(String[] args) {
         // for 循环
         for (int i = 1; i < 3; i++) {

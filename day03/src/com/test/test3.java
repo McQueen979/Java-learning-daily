@@ -1,9 +1,10 @@
-package com.practice;
+package com.test;
 /*
     案例: while循环案例1(求奇数和)
         求1到100之间的奇数和
  */
-public class P1 {
+
+public class test3 {
     public static void main(String[] args) {
 
         //  用for
